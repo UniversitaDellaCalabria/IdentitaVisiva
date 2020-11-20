@@ -24,3 +24,17 @@ Loghi in formato svg pronti all'uso per il web.
 | loghi/logo13.svg |  ![13](loghi/logo13.svg) |
 | loghi/logo14.svg |  ![14](loghi/logo14.svg) |
 | loghi/logo15.svg |  ![15](loghi/logo15.svg) |
+| loghi/portale2020/ctc.svg |  ![ctc](loghi/portale2020/ctc.svg) |
+| loghi/portale2020/demacs.svg |  ![demacs](loghi/portale2020/demacs.svg) |
+| loghi/portale2020/desf.svg |  ![desf](loghi/portale2020/desf.svg) |
+| loghi/portale2020/diam.svg |  ![diam](loghi/portale2020/diam.svg) |
+| loghi/portale2020/dices.svg |  ![dices](loghi/portale2020/dices.svg) |
+| loghi/portale2020/dimeg.svg |  ![dimeg](loghi/portale2020/dimeg.svg) |
+| loghi/portale2020/dimes.svg |  ![dimes](loghi/portale2020/dimes.svg) |
+| loghi/portale2020/dinci.svg |  ![dinci](loghi/portale2020/dinci.svg) |
+| loghi/portale2020/discag.svg |  ![discag](loghi/portale2020/discag.svg) |
+| loghi/portale2020/dispes.svg |  ![dispes](loghi/portale2020/dispes.svg) |
+| loghi/portale2020/dsu.svg |  ![dsu](loghi/portale2020/dsu.svg) |
+| loghi/portale2020/fis.svg |  ![fis](loghi/portale2020/fis.svg) |
+| loghi/portale2020/unical_red_rounded.svg |  ![unical_red_rounded](loghi/portale2020/unical_red_rounded.svg) |
+| loghi/portale2020/unical_red.svg |  ![unical_red](loghi/portale2020/unical_red.svg) |
